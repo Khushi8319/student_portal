@@ -64,7 +64,6 @@ student-portal/
 │   │   ├── Assignments.jsx
 │   │   ├── Notices.jsx
 │   │   └── Courses.jsx
-│   ├── assets/
 │   ├── App.jsx
 │   └── main.jsx
 ├── .gitignore
